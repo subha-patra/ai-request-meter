@@ -1,21 +1,14 @@
 # AI Request Meter
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![npm version](https://img.shields.io/badge/npm-v1.0.0-blue)](https://www.npmjs.com/package/ai-request-meter)
-[![npm downloads](https://img.shields.io/badge/downloads-new%20package-blue)](https://www.npmjs.com/package/ai-request-meter)
-[![GitHub issues](https://img.shields.io/github/issues/subha-patra/ai-request-meter?cacheSeconds=60)](https://github.com/subha-patra/ai-request-meter/issues)
-[![GitHub stars](https://img.shields.io/github/stars/subha-patra/ai-request-meter?style=social&cacheSeconds=60)](https://github.com/subha-patra/ai-request-meter)
-[![GitHub license](https://img.shields.io/github/license/subha-patra/ai-request-meter?cacheSeconds=60)](https://github.com/subha-patra/ai-request-meter/blob/main/LICENSE)
-
 `ai-request-meter` is a server-first TypeScript SDK for tracking AI calls made through your application. It records token usage, estimated cost, latency, model, status, and local heuristic scores after each OpenAI-compatible response.
 
 Current version: `1.0.0`
 
-NPM package: https://www.npmjs.com/package/ai-request-meter
+NPM package: [ai-request-meter](https://www.npmjs.com/package/ai-request-meter)
 
-Repository: https://github.com/subha-patra/ai-request-meter
+Repository: [GitHub](https://github.com/subha-patra/ai-request-meter)
 
-Live demo and docs: https://subha-patra.github.io/ai-request-meter/
+Live demo and docs: [Demo](https://subha-patra.github.io/ai-request-meter/)
 
 ---
 
@@ -154,3 +147,18 @@ Use `failOnLoggerError: true` for strict pipelines where a missing log should fa
 ## Scope
 
 v1 supports basic text chat-completion style calls through OpenAI-compatible APIs. Streaming, tool calls, embeddings, image inputs, MongoDB, SQLite, and hosted dashboards are planned as later additions.
+
+--- 
+
+📛 Badges
+
+[![npm version](https://img.shields.io/npm/v/universal-rating?cacheSeconds=60)](https://www.npmjs.com/package/universal-rating)
+[![npm downloads](https://img.shields.io/badge/downloads-new%20package-blue)](https://www.npmjs.com/package/universal-rating)
+[![GitHub issues](https://img.shields.io/github/issues/subha-patra/universal-rating?cacheSeconds=60)](https://github.com/subha-patra/universal-rating/issues)
+[![GitHub stars](https://img.shields.io/github/stars/subha-patra/universal-rating?style=social&cacheSeconds=60)](https://github.com/subha-patra/universal-rating)
+[![GitHub license](https://img.shields.io/github/license/subha-patra/universal-rating?cacheSeconds=60)](https://github.com/subha-patra/universal-rating/blob/main/LICENSE)
+
+
+## 📄 License
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
