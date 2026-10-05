@@ -1,5 +1,12 @@
 # AI Request Meter
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![npm version](https://img.shields.io/badge/npm-v1.0.0-blue)](https://www.npmjs.com/package/ai-request-meter)
+[![npm downloads](https://img.shields.io/badge/downloads-new%20package-blue)](https://www.npmjs.com/package/ai-request-meter)
+[![GitHub issues](https://img.shields.io/github/issues/subha-patra/ai-request-meter?cacheSeconds=60)](https://github.com/subha-patra/ai-request-meter/issues)
+[![GitHub stars](https://img.shields.io/github/stars/subha-patra/ai-request-meter?style=social&cacheSeconds=60)](https://github.com/subha-patra/ai-request-meter)
+[![GitHub license](https://img.shields.io/github/license/subha-patra/ai-request-meter?cacheSeconds=60)](https://github.com/subha-patra/ai-request-meter/blob/main/LICENSE)
+
 `ai-request-meter` is a server-first TypeScript SDK for tracking AI calls made through your application. It records token usage, estimated cost, latency, model, status, and local heuristic scores after each OpenAI-compatible response.
 
 Current version: `1.0.0`
